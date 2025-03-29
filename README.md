@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Amelie Paz.
+- Vivo en General Rodriguez.
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Estudio la Tecnicatura en Programacion de Videojuegos.
+- Tengo una gata llamada Malefica y dos perros, Bolt y Chichen.
