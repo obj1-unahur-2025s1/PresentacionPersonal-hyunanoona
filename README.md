@@ -1,14 +1,9 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
 # Amelie Paz
-## Datos Personales
-- Mi nombre es Amelie Paz.
-- Tengo 20 años.
-- Vivo en General Rodriguez.
-- Estudio la Tecnicatura en Programacion de Videojuegos.
+Hola, mi nombre es Amelie Paz, tengo 20 años y vivo en General Rodriguez. Estoy estudiando la Tecnicatura en Programacion de Videojuegos y actualmente me encuentro en el tercer cuatrimestre de la misma.
 
 ![Amelie Paz](./assets/lil%20ame.jpg)
-
 
 ## Otra Información
 - Algunos de mis hobbies son el crochet, el macrame y la literatura.
