@@ -9,6 +9,8 @@
 - Vivo en General Rodriguez.
 - Estudio la Tecnicatura en Programacion de Videojuegos.
 
+![Amelie Paz](./assets/lil%20ame.jpg)
+
 
 ### Otra Información
 - Algunos de mis hobbies son el crochet, el macrame y la literatura.
